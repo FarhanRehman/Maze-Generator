@@ -11,3 +11,5 @@ Other Algorithms to add:
 - [ ] Randomized Breadth-First Search
 - [ ] Randomized Kruskal's algorithm
 - [ ] Randomized Prim's algorithm
+
+Here's the wikipedia page where I got the pseudocode from: https://en.wikipedia.org/wiki/Maze_generation_algorithm
